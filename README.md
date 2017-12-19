@@ -2,7 +2,7 @@
 An example of using [Ratpack's](https://www.ratpack.io) built-in configuration mechanism.
 
 ## Bugs and Feedback
-For bugs, questions and discussions please use the [Github Issues](https://github.com/gregwhitaker/ratpack-config-example/issues).
+For bugs, questions, and discussions please use the [Github Issues](https://github.com/gregwhitaker/ratpack-config-example/issues).
 
 ## License
 MIT License
