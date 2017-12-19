@@ -7,6 +7,9 @@ import ratpack.guice.Guice;
 import ratpack.server.BaseDir;
 import ratpack.server.RatpackServer;
 
+/**
+ * Starts the example application.
+ */
 public class Main {
 
     public static void main(String... args) throws Exception {
