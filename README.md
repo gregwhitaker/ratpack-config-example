@@ -1,6 +1,8 @@
 # ratpack-config-example
 An example of using [Ratpack's](https://www.ratpack.io) built-in configuration mechanism.
 
+The example starts a service that returns random quotes that are configured in the [config.yaml](src/ratpack/config.yaml) file.
+
 ## Bugs and Feedback
 For bugs, questions, and discussions please use the [Github Issues](https://github.com/gregwhitaker/ratpack-config-example/issues).
 
