@@ -3,6 +3,15 @@ An example of using [Ratpack's](https://www.ratpack.io) built-in configuration m
 
 The example starts a service that returns random quotes that are configured in the [config.yaml](src/ratpack/config.yaml) file.
 
+## Running the Example
+The example can be run using the following Gradle command:
+
+    $ ./gradlew run
+
+Once the application has started, curl the service using the following command to receive random quotes:
+
+    $ curl localhost:5050/quotes
+
 ## Bugs and Feedback
 For bugs, questions, and discussions please use the [Github Issues](https://github.com/gregwhitaker/ratpack-config-example/issues).
 
