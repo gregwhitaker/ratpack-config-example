@@ -1,4 +1,6 @@
 # ratpack-config-example
+[![Build Status](https://travis-ci.org/gregwhitaker/ratpack-config-example.svg?branch=master)](https://travis-ci.org/gregwhitaker/ratpack-config-example)
+
 An example of using [Ratpack's](https://www.ratpack.io) built-in configuration mechanism.
 
 The example starts a service that returns random quotes that are configured in the [config.yaml](src/ratpack/config.yaml) file.
