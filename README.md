@@ -12,7 +12,7 @@ The example can be run using the following Gradle command:
 
 Once the application has started, curl the service using the following command to receive random quotes:
 
-    $ curl localhost:5050/quotes
+    $ curl http://localhost:5050/quotes
 
 ## Bugs and Feedback
 For bugs, questions, and discussions please use the [Github Issues](https://github.com/gregwhitaker/ratpack-config-example/issues).
