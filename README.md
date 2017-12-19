@@ -1,4 +1,5 @@
 # ratpack-config-example
+An example of using [Ratpack's](https://www.ratpack.io) built-in configuration mechanism.
 
 ## License
 MIT License
